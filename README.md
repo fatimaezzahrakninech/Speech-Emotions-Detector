@@ -6,7 +6,11 @@ This project is a Speech Emotion Detection (SED) system that analyzes audio reco
 🚀 Technologies Used:
 
 Python (pandas, numpy, librosa, scikit-learn, etc.)
+
 Deep Learning (TensorFlow/Keras)
+
 Feature Extraction (MFCC, Mel-Spectrogram)
+
 Audio Processing (Librosa, Wave, Soundfile)
+
 Visualization (Matplotlib, Seaborn)
